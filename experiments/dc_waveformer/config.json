@@ -8,7 +8,7 @@
     "n_workers": 16,
     "model_params": {
         "L": 32,
-        "label_len": 20,
+        "label_len": 51,
         "model_dim": 256,
         "num_enc_layers": 10,
         "num_dec_layers": 1,
